@@ -1,10 +1,10 @@
 ---
 title: "About"
-image: "profile.jpg"
+image: "card1.jpg"
 weight: 8
 ---
 
-We're **Contoso** the awesome drone company!
+We're **K&T** the awesome card company!
 
 ### Why choose us?
 

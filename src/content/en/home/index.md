@@ -1,6 +1,6 @@
 ---
-title: "We are Contoso"
+title: "Welcome to K&T's website"
 headless: true
 ---
 
-We're the next level drone making company
+We're here to help you out
